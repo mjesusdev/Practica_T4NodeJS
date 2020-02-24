@@ -1,0 +1,25 @@
+{
+  "name": "practica_t4_nodejs",
+  "version": "1.0.0",
+  "description": "Práctica del Tema 4 Node.js de Desarrollo WEB en Entorno Servidor",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjesusoj/Practica_T4NodeJS.git"
+  },
+  "author": {
+    "name": "mjesusoj",
+    "email": "m.jesusojedasalvador@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjesusoj/Practica_NodeJS_DWS/issues"
+  },
+  "homepage": "https://github.com/mjesusoj/Practica_NodeJS_DWS#readme",
+  "dependencies": {
+    "mongodb": "^3.5.3"
+  }
+}
